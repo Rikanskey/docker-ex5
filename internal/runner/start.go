@@ -1,10 +1,10 @@
 package runner
 
 import (
-	"docker_ex5/internal/app"
-	"docker_ex5/internal/config"
-	"docker_ex5/internal/port/http"
-	"docker_ex5/internal/server"
+	"docker-ex5/internal/app"
+	"docker-ex5/internal/config"
+	"docker-ex5/internal/port/http"
+	"docker-ex5/internal/server"
 	"fmt"
 	"github.com/sirupsen/logrus"
 	"log"

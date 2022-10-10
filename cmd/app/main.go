@@ -1,6 +1,6 @@
 package main
 
-import "docker_ex5/internal/runner"
+import "docker-ex5/internal/runner"
 
 const configDir = "./config/"
 

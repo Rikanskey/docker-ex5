@@ -1,7 +1,7 @@
 package server
 
 import (
-	"docker_ex5/internal/config"
+	"docker-ex5/internal/config"
 	"net/http"
 )
 

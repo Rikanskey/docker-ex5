@@ -1,4 +1,4 @@
-module docker_ex5
+module docker-ex5
 
 go 1.19
 

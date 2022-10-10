@@ -1,9 +1,9 @@
 package http
 
 import (
-	"docker_ex5/internal/app"
-	v1 "docker_ex5/internal/port/http/v1"
-	"docker_ex5/pkg/logger"
+	"docker-ex5/internal/app"
+	v1 "docker-ex5/internal/port/http/v1"
+	"docker-ex5/pkg/logger"
 	"github.com/go-chi/chi/middleware"
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/cors"
